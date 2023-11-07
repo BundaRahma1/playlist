@@ -1,0 +1,32 @@
+{
+    "song1" : {
+       "song" : "BackinBlack",
+       "artist" : "AC/DC",
+       "genre" : "Rock",
+       "link": "https://www.youtube.com/watch?v=pAgnJDJN4VA"
+    },
+    "song2" : {
+        "song" : "Footloose",
+        "artist" : "Kenny Loggins",
+        "genre" : "CountryPop",
+        "link": "https://www.youtube.com/watch?v=ltrMfT4Qz5Y"
+     },
+     "song3" : {
+        "song" : "Eenie Meenie",
+        "artist" : "Sean Kingston",
+        "genre" : "R&B",
+        "link": "https://www.youtube.com/watch?v=prmmCg5bKxA"
+     },
+     "song4" : {
+        "song" : "Beauty and a Beat",
+        "artist" : "Justin Bieber",
+        "genre" : "R&B",
+        "link": "https://www.youtube.com/watch?v=Ys7-6_t7OEQ"
+     },
+     "song5" : {
+        "song" : "YMCA",
+        "artist" : "Village People",
+        "genre" : "Disco",
+        "link": "https://www.youtube.com/watch?v=CS9OO0S5w2k"
+     }
+ }
